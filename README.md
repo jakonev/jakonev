@@ -5,6 +5,6 @@
 - 😄 Pronouns: tanto faz
 - ⚡ Https:// 
 
-![Alt text](
-https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/F0pWL9PWrvv8ivrogKu7Nw/LzGOOaxA0OH9-QAgpjOxJ2Ca7jokbhfO7G9q1-sgtIGfRSDl-aL4h--4Dd8DAZbTKtQQAz-FUv8hmGm91PUoEHH7-yRFKMDgBe8x83iwl8uKb0XSpTPgyNlUsLdfAWd03cktKMEk5jwy72zN7XWFtw/t28Q4ZdYBRqnAyYsGzYIZD2hy82qScznWITpXyYoquU)
+Decision tree learning
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/-X7JJpOJCkdLUg8EUZzBqg/YI5Q2vYj3p8kHPrQ9hoKNCQ_0jdWENRk3xn1WHl0FdI1MxPHC-aIV3VeqxxI4Xgl8nnsSFziJxw6GQEfz8kvPAa1cOikf0jMCIYg-P7R9UsVnokWraZv3wDfCG_OtmgZtmZWMoEGGN5KzoTA27nsxA/XN3af66SqD_fS4UzqoBluJvg93UhEOYzomwSNYOXSZ8)
 
