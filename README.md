@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Augusto
 - 👀 I’m interested in work
 - 🌱 I’m currently learning python, date, full
-- 💞️ I’m looking to collaborate on B3, finance, cases, books
+- 💞️ I’m looking to collaborate
+- 🌱 Senior Software Engineer here
 - 😄 Pronouns: tanto faz
 - ⚡ Https:// 
 
